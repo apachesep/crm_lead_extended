@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*
+ *  This CSS is for the html description of modules
+ * TODO clean
+ */
+/* --------------------------------- *
+ *          STYLING CONTEXT          *
+ * --------------------------------- */
+/* --- Styling for the V8/Lato/White/Purple design --- */
+
+.oe_crm_campaign {
+/*  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", "Helvetica", Sans;
+  font-weight: 300;
+  color: #646464;
+  background: white;
+  text-align: left;
+  vertical-align: middle;  */
+  font-size: 10px;
+  
+}
